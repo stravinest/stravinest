@@ -19,7 +19,7 @@
 <h3>👯프로젝트경험</h3> 
 99일간 항해 99라는 스파르타 코딩 클럽 에서 주관한 부트캠프 이수 <br>
 
-[스파르타코딩클럽](https://spartacodingclub.kr)<br>
+[스파르타코딩클럽](https://hanghae99.spartacodingclub.kr/?utm_source=youtube&utm_medium=paid&utm_campaign=15140556153&utm_content=129341608796&utm_term=558314615957&gclid=CjwKCAiA-9uNBhBTEiwAN3IlNEhoZvLp8yXfTNCog-j6C9cHvssiAQrQKrCPICgCHoE_hJPpYaISYhoCR0kQAvD_BwE)<br>
 
 2021-08 ~ 2021-12<br>
 기간: 6주, 백앤드(프론트:3 백:3 디자이너:2) 실전프로젝트 ( mbti기반 컨테츠 제공 사이트)https://github.com/stravinest/fungap-back<br>

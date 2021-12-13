@@ -19,10 +19,10 @@
 <h3>👯프로젝트경험</h3> 
 99일간 항해 99라는 스파르타 코딩 클럽 에서 주관한 부트캠프 이수 <br>
 2021-08 ~ 2021-12<br>
-기간: 6주, 백앤드(프론트:3 백:3 디자이너:2) 실전프로젝트 ( mbti기반 컨테츠 제공 사이트) https://github.com/fungap/fungap-back <br>
-기간: 1주, 백앤드(6인) clone코딩 미니프로젝트 (페이스북 클론코딩)<br>
-기간: 1주, 백앤드(5인) 미니프로젝트(고양이 아이템 소개 사이트)<br>
-기간: 1주, 풀스택(6인) 미니프로젝트(칼로리계산 사이트 ) <br>
+기간: 6주, 백앤드(프론트:3 백:3 디자이너:2) 실전프로젝트 ( mbti기반 컨테츠 제공 사이트)https://github.com/stravinest/fungap-back<br>
+기간: 1주, 백앤드(6인) clone코딩 미니프로젝트 (페이스북 클론코딩)https://github.com/stravinest/cloncode_Backend_5<br>
+기간: 1주, 백앤드(5인) 미니프로젝트(고양이 아이템 소개 사이트)https://github.com/stravinest/cat_Item_backend<br>
+기간: 1주, 풀스택(4인) 미니프로젝트(칼로리계산 사이트 )https://github.com/stravinest/sparta_kcal_1 <br>
 <!--
 **stravinest/stravinest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

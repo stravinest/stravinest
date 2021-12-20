@@ -1,4 +1,6 @@
 ### 목표 : 함께 일하고 싶은 개발자, 꾸준히 성장하는 개발자 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stravinest&show_icons=true)
+
 <br>
 <h3>🛠개발 인터페이스</h3>
 <div>

@@ -1,5 +1,11 @@
 ### 목표 : 함께 일하고 싶은 개발자, 꾸준히 성장하는 개발자 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stravinest&show_icons=true)
+
+2022-01-17 ~ <br>
+아하랩스 백앤드 개발자로 현업 근무 <br>
+주요 스택 > nodejs, express, mongodb, typescript, redis
+
+
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stravinest&show_icons=true)
 
 <br>
 <h3>🛠개발 인터페이스</h3>
